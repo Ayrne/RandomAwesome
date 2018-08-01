@@ -1,7 +1,7 @@
 <?php
 /*
    Plugin Name: Random Awesome
-   Plugin URI: https://ayrne.com
+   Plugin URI: https://ayrne.io
    Description: This plugin creates a link to yourwebsite.com/awesome that, when linked, will serve up a random post on your site.
    Version: 1.0
    Author: Benjamin F Sulivan
